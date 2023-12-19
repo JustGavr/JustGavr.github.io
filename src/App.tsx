@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Текст писать тут
+          Приветики! В рамках обучения хочу постичь реакт, чтобы догнать коллег по цеху на проекте. Ничем не владею) Опыт разработки - минимальный.
         </p>
       </header>
     </div>
